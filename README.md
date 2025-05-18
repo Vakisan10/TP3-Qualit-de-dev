@@ -739,7 +739,7 @@ jobs:
 
 1. Développer la classe `Voiture` ainsi que sa classe de tests
 
-2. Faire passer les tests dans le cadre d'une demande de *pull request*
+2. Faire passer les tests dans le cadre d'une demande de *pull request*<br>
    Description de la demande de *pull request* : `Ajout de la classe métier`
 
 
@@ -747,12 +747,12 @@ jobs:
 
 ## Partie 3 : Créer la branche `service_with_statistique_mock`
 
-1. Développer le service `Statistique` en simulant la dépendant à l'ensemble des voitures par un *mock"
+1. Développer le service `Statistique` en simulant la dépendance à l'ensemble des voitures par un *mock"
 2. Procéder comme précédement pour valider votre développement
 
 ## Partie 4 : Créer la branche `service_with_statistique_implementation`
 
-Subsituer la simulation par la classe `StatistiqueImpl"
+Subsituer la simulation par la classe `StatistiqueImpl`
 
 1. Développer la classe `StatistiqueImpl`
 2. Procéder comme précemment pour faire passer les tests
