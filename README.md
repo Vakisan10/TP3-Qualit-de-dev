@@ -735,7 +735,7 @@ jobs:
 4. Ajouter votre enseignant comme participant à votre dépôt
 
 
-## Partie 2 : Créer la branche "voiture_data"
+## Partie 2 : Créer la branche `voiture_data`
 
 1. Développer la classe `Voiture` ainsi que sa classe de tests
 
@@ -745,12 +745,12 @@ jobs:
 
 
 
-## Partie 3 : Créer la branche "service_with_statistique_mock"
+## Partie 3 : Créer la branche `service_with_statistique_mock`
 
 1. Développer le service `Statistique` en simulant la dépendant à l'ensemble des voitures par un *mock"
 2. Procéder comme précédement pour valider votre développement
 
-## Partie 4 : Créer la branche "service_with_statistique_implementation"
+## Partie 4 : Créer la branche `service_with_statistique_implementation`
 
 Subsituer la simulation par la classe `StatistiqueImpl"
 
